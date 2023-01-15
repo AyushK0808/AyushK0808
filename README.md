@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AyushK0808&theme=gotham)](https://git.io/streak-stats)
+
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushK0808)](https://github.com/AyushK0808/github-readme-stats)
