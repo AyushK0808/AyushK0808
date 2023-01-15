@@ -10,7 +10,15 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything that interests me!!!
 - 📫 How to reach me: GMail: theofficialayush.kumar@gmail.com
                       Lin
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on anything that comes to my mind
+- 🌱 I’m currently learning C++ and Python
+- 👯 I’m looking to collaborate on anything that interests me!!!
+- 📫 How to reach me: GMail: theofficialayush.kumar@gmail.com
+                      LinkedIn:https://www.linkedin.com/in/ayush-kumar-061a58251/
+- 😄 Pronouns: He/Him
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
