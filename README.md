@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++ and Python
 - 👯 I’m looking to collaborate on anything that interests me!!!
 - 📫 How to reach me: GMail: theofficialayush.kumar@gmail.com
-                      LinkedIn:https://www.linkedin.com/in/ayush-kumar-061a58251/
+                      LinkedIn:https://www.linkedin.com/in/ayush-kumar-061a58251/theme=react&border_radius=5/
 - 😄 Pronouns: He/Him
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AyushK0808)](https://git.io/streak-stats)
