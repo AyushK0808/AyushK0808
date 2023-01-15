@@ -21,4 +21,4 @@ Here are some ideas to get you started:
                       LinkedIn:https://www.linkedin.com/in/ayush-kumar-061a58251/
 - 😄 Pronouns: He/Him
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AyushK0808)](https://git.io/streak-stats)
