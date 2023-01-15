@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AyushK0808&theme=gotham)](https://git.io/streak-stats)
 
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushK0808)](https://github.com/AyushK0808/github-readme-stats)
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushK0808&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushK0808&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
