@@ -1,6 +1,9 @@
 ### Hello there 👋
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AyushK0808/count.svg" />
+</p>
 <!--
 **AyushK0808/AyushK0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
