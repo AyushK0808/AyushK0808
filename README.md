@@ -1,8 +1,7 @@
 ### Hello there 👋
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AyushK0808/count.svg" />
+  
 
 <!--
 **AyushK0808/AyushK0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +26,9 @@ Here are some ideas to get you started:
 - - Github:https://github.com/AyushK0808
 - 😄 Pronouns: He/Him
 
+  
+- -Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AyushK0808/count.svg" />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AyushK0808&theme=gotham)](https://git.io/streak-stats)
 
 [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushK0808&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
