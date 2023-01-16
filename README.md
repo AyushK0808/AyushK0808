@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<p align="center"> 
+<p> 
   
 
 <!--
@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
   
-- -Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AyushK0808/count.svg" />
+-Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AyushK0808/count.svg" /><br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AyushK0808&theme=gotham)](https://git.io/streak-stats)
 
 [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushK0808&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
