@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on anything that comes to my mind
+- Fresher at VIT Vellore (Class of 2026)-B.Tech in Computer Science and Engineering
 - 🌱 I’m currently learning: C++ and Python
 - 👯 I’m looking to collaborate on anything that interests me!!!
 - 📫 How to reach me:    
