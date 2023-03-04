@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on anything that comes to my mind
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C/C++ and Python
 - 👯 I’m looking to collaborate on anything that interests me!!!
 - 📫 How to reach me: GMail: theofficialayush.kumar@gmail.com
                       Lin
