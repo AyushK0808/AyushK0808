@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 - Fresher at VIT Vellore (Class of 2026)-B.Tech in Computer Science and Engineering
-- 🌱 I’m currently learning: C++ and Python
+- 🌱 I’m currently learning: C and C++
+- 🔥 Already know- Python
 - 👯 I’m looking to collaborate on anything that interests me!!!
 - 📫 How to reach me:    
 - - GMail: theofficialayush.kumar@gmail.com
