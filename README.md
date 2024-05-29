@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 - Sophomore at VIT Vellore (Class of 2026)-B.Tech in Computer Science and Engineering
 - 🌱 I’m currently learning: Machine Learning and Web Dev
-- 🔥 Already know- Python, c, C++, Java
-- 👯 I’m looking to collaborate on anything that interests me!!!
+- 👯 I’m looking to collaborate on any project related to Machine Learning/ Web Development or App Development
 - 📫 How to reach me:    
 - - GMail: theofficialayush.kumar@gmail.com
 - - LinkedIn:https://www.linkedin.com/in/ayush-kumar-061a58251/
