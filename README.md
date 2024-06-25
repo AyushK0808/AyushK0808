@@ -7,21 +7,7 @@
 <p> 
   
 
-<!--
-**AyushK0808/AyushK0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on anything that comes to my mind
-- 🌱 I’m currently learning C/C++ and Python
-- 👯 I’m looking to collaborate on anything that interests me!!!
-- 📫 How to reach me: GMail: theofficialayush.kumar@gmail.com
-                      Lin
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
-
-- Sophomore at VIT Vellore (Class of 2026)-B.Tech in Computer Science and Engineering
+- Pre-Final Year Student at VIT Vellore (Class of 2026)-B.Tech in Computer Science and Engineering
 - 🌱 I’m currently learning: Go, Rust and Flutter
 - 👯 I’m looking to collaborate on any project related to Machine Learning/ Web Development or App Development
 - 😄 Pronouns: He/Him
