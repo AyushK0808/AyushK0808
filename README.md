@@ -9,7 +9,7 @@
 
 - Pre-Final Year Student at VIT Vellore (Class of 2026)-B.Tech in Computer Science and Engineering
 - 🌱 I’m currently learning: Go, Rust and Flutter
-- 👯 I’m looking to collaborate on any project related to Machine Learning/ Web Development or App Development
+- 👯 I’m looking to collaborate on any project which seem cool!
 - 😄 Pronouns: He/Him
 
 <div align="center"> 
