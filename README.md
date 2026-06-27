@@ -2,7 +2,7 @@
 
 <a name="top"></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:3c096c,100:9d4edd&height=220&section=header&text=Ayush%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20%2B%20Backend&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:3c096c,100:9d4edd&height=220&section=header&text=Ayush%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20%2B%20Backend&descAlignY=58&descSize=20" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&color=9D4EDD&width=720&lines=Building+agentic+systems+%26+full-stack+apps;Autonomous+systems+%7C+Multi-agent+orchestration;Turning+context+into+capability" alt="Typing SVG" />
@@ -40,19 +40,19 @@
   <h2>📊 GitHub Stats</h2>
 
   <a href="https://github.com/AyushK0808">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AyushK0808&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AyushK0808&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=9D4EDD&icon_color=c77dff&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/AyushK0808">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushK0808&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=9D4EDD&text_color=c9d1d9" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushK0808&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=9D4EDD&text_color=c9d1d9" />
   </a>
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=AyushK0808&hide_border=true&background=0a0a0a&stroke=9D4EDD&ring=9D4EDD&fire=c77dff&currStreakLabel=9D4EDD&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AyushK0808&hide_border=true&background=00000000&stroke=9D4EDD&ring=9D4EDD&fire=c77dff&currStreakLabel=9D4EDD&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushK0808&hide_border=true&bg_color=0a0a0a&color=c77dff&line=9D4EDD&point=ffffff&area=true&area_color=3c096c" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushK0808&hide_border=true&bg_color=00000000&color=c77dff&line=9D4EDD&point=ffffff&area=true&area_color=9d4edd" alt="Activity Graph" />
 
   <br/><br/>
 
@@ -77,5 +77,3 @@
   <i>"Talk is cheap. Show me the code."</i><br/>
   <sub>— Linus Torvalds</sub>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,60:3c096c,100:0a0a0a&height=120&section=footer" />
