@@ -22,10 +22,11 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           # color_snake = dark purple snake
-          # color_dots  = empty cell, then a light-purple ramp for contributions
+          # color_dots  = EXACTLY 5 colors: [0 contributions, low, ..., high]
+          #               empty cell first, then a light-purple ramp
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=5a189a&color_dots=ebedf0,9d4edd,b388ff,cba6ff,e0c3ff
-            dist/github-contribution-grid-snake-dark.svg?color_snake=5a189a&color_dots=161b22,9d4edd,b388ff,cba6ff,e0c3ff
+            dist/github-contribution-grid-snake.svg?color_snake=#5a189a&color_dots=#ebedf0,#9d4edd,#b388ff,#cba6ff,#e0c3ff
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#5a189a&color_dots=#161b22,#9d4edd,#b388ff,#cba6ff,#e0c3ff
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
