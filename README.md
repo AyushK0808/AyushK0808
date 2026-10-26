@@ -28,7 +28,6 @@
 ### About Me
 
 - 🎓 Computer Science Engineering grad — **VIT Vellore, Class of 2026**
-- 💼 **Building cool things @ Cornerstone OnDemand**
 - 🤖 Into **AI agents, multi-agent orchestration, and autonomous systems** — from agentic ETL pipelines to UAV vision stacks
 - 🌱 Currently going deep on **Go, Rust, and agentic harness architecture**
 - 🛩️ Ex Software Lead @ **Team Ardra** (autonomous drones) · ex Technical Head @ **VinnovateIT**
